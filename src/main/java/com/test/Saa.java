@@ -4,5 +4,6 @@ public class Saa {
 
 	public void show() {
 		System.out.println("hello");
+		System.out.println("world");
 	}
 }
